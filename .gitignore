@@ -1,3 +1,5 @@
 *.xcworkspace
 **/.DS_Store
-xcuserdata
+xcuserdata/
+xcshareddata/
+openterface.xcodeproj
